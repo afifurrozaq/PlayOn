@@ -1,0 +1,302 @@
+[
+    {
+        "merged": "/home/afifur/AndroidStudioProjects/GoogleMapsApp/app/build/intermediates/res/merged/debug/drawable/notification_icon_background.xml",
+        "source": "/home/afifur/.android/build-cache/10c8c2810316d669c7e688957506b2bcb27ab7f2/output/res/drawable/notification_icon_background.xml"
+    },
+    {
+        "merged": "/home/afifur/AndroidStudioProjects/GoogleMapsApp/app/build/intermediates/res/merged/debug/drawable/abc_ic_ab_back_material.xml",
+        "source": "/home/afifur/.android/build-cache/10c8c2810316d669c7e688957506b2bcb27ab7f2/output/res/drawable/abc_ic_ab_back_material.xml"
+    },
+    {
+        "merged": "/home/afifur/AndroidStudioProjects/GoogleMapsApp/app/build/intermediates/res/merged/debug/drawable/mr_ic_media_route_connecting_mono_light.xml",
+        "source": "/home/afifur/.android/build-cache/8cf70c287197fb6c38956d218225b67736e8ef52/output/res/drawable/mr_ic_media_route_connecting_mono_light.xml"
+    },
+    {
+        "merged": "/home/afifur/AndroidStudioProjects/GoogleMapsApp/app/build/intermediates/res/merged/debug/drawable/abc_list_selector_holo_light.xml",
+        "source": "/home/afifur/.android/build-cache/10c8c2810316d669c7e688957506b2bcb27ab7f2/output/res/drawable/abc_list_selector_holo_light.xml"
+    },
+    {
+        "merged": "/home/afifur/AndroidStudioProjects/GoogleMapsApp/app/build/intermediates/res/merged/debug/drawable/abc_ic_search_api_material.xml",
+        "source": "/home/afifur/.android/build-cache/10c8c2810316d669c7e688957506b2bcb27ab7f2/output/res/drawable/abc_ic_search_api_material.xml"
+    },
+    {
+        "merged": "/home/afifur/AndroidStudioProjects/GoogleMapsApp/app/build/intermediates/res/merged/debug/drawable/common_plus_signin_btn_text_light.xml",
+        "source": "/home/afifur/.android/build-cache/beb7046fb55955e2f0be78de9e82a9a491372c52/output/res/drawable/common_plus_signin_btn_text_light.xml"
+    },
+    {
+        "merged": "/home/afifur/AndroidStudioProjects/GoogleMapsApp/app/build/intermediates/res/merged/debug/drawable/design_snackbar_background.xml",
+        "source": "/home/afifur/.android/build-cache/788628bb1a26107565bb7159b1f55943d2d75c8f/output/res/drawable/design_snackbar_background.xml"
+    },
+    {
+        "merged": "/home/afifur/AndroidStudioProjects/GoogleMapsApp/app/build/intermediates/res/merged/debug/drawable/mr_ic_play_light.xml",
+        "source": "/home/afifur/.android/build-cache/8cf70c287197fb6c38956d218225b67736e8ef52/output/res/drawable/mr_ic_play_light.xml"
+    },
+    {
+        "merged": "/home/afifur/AndroidStudioProjects/GoogleMapsApp/app/build/intermediates/res/merged/debug/drawable/mr_ic_media_route_mono_light.xml",
+        "source": "/home/afifur/.android/build-cache/8cf70c287197fb6c38956d218225b67736e8ef52/output/res/drawable/mr_ic_media_route_mono_light.xml"
+    },
+    {
+        "merged": "/home/afifur/AndroidStudioProjects/GoogleMapsApp/app/build/intermediates/res/merged/debug/drawable/abc_list_selector_background_transition_holo_light.xml",
+        "source": "/home/afifur/.android/build-cache/10c8c2810316d669c7e688957506b2bcb27ab7f2/output/res/drawable/abc_list_selector_background_transition_holo_light.xml"
+    },
+    {
+        "merged": "/home/afifur/AndroidStudioProjects/GoogleMapsApp/app/build/intermediates/res/merged/debug/drawable/abc_item_background_holo_light.xml",
+        "source": "/home/afifur/.android/build-cache/10c8c2810316d669c7e688957506b2bcb27ab7f2/output/res/drawable/abc_item_background_holo_light.xml"
+    },
+    {
+        "merged": "/home/afifur/AndroidStudioProjects/GoogleMapsApp/app/build/intermediates/res/merged/debug/drawable/abc_btn_colored_material.xml",
+        "source": "/home/afifur/.android/build-cache/10c8c2810316d669c7e688957506b2bcb27ab7f2/output/res/drawable/abc_btn_colored_material.xml"
+    },
+    {
+        "merged": "/home/afifur/AndroidStudioProjects/GoogleMapsApp/app/build/intermediates/res/merged/debug/drawable/mr_ic_settings_dark.xml",
+        "source": "/home/afifur/.android/build-cache/8cf70c287197fb6c38956d218225b67736e8ef52/output/res/drawable/mr_ic_settings_dark.xml"
+    },
+    {
+        "merged": "/home/afifur/AndroidStudioProjects/GoogleMapsApp/app/build/intermediates/res/merged/debug/drawable/abc_edit_text_material.xml",
+        "source": "/home/afifur/.android/build-cache/10c8c2810316d669c7e688957506b2bcb27ab7f2/output/res/drawable/abc_edit_text_material.xml"
+    },
+    {
+        "merged": "/home/afifur/AndroidStudioProjects/GoogleMapsApp/app/build/intermediates/res/merged/debug/drawable/abc_ic_voice_search_api_material.xml",
+        "source": "/home/afifur/.android/build-cache/10c8c2810316d669c7e688957506b2bcb27ab7f2/output/res/drawable/abc_ic_voice_search_api_material.xml"
+    },
+    {
+        "merged": "/home/afifur/AndroidStudioProjects/GoogleMapsApp/app/build/intermediates/res/merged/debug/drawable/abc_tab_indicator_material.xml",
+        "source": "/home/afifur/.android/build-cache/10c8c2810316d669c7e688957506b2bcb27ab7f2/output/res/drawable/abc_tab_indicator_material.xml"
+    },
+    {
+        "merged": "/home/afifur/AndroidStudioProjects/GoogleMapsApp/app/build/intermediates/res/merged/debug/drawable/common_google_signin_btn_text_light.xml",
+        "source": "/home/afifur/.android/build-cache/beb7046fb55955e2f0be78de9e82a9a491372c52/output/res/drawable/common_google_signin_btn_text_light.xml"
+    },
+    {
+        "merged": "/home/afifur/AndroidStudioProjects/GoogleMapsApp/app/build/intermediates/res/merged/debug/drawable/abc_list_selector_holo_dark.xml",
+        "source": "/home/afifur/.android/build-cache/10c8c2810316d669c7e688957506b2bcb27ab7f2/output/res/drawable/abc_list_selector_holo_dark.xml"
+    },
+    {
+        "merged": "/home/afifur/AndroidStudioProjects/GoogleMapsApp/app/build/intermediates/res/merged/debug/drawable/common_google_signin_btn_icon_light.xml",
+        "source": "/home/afifur/.android/build-cache/beb7046fb55955e2f0be78de9e82a9a491372c52/output/res/drawable/common_google_signin_btn_icon_light.xml"
+    },
+    {
+        "merged": "/home/afifur/AndroidStudioProjects/GoogleMapsApp/app/build/intermediates/res/merged/debug/drawable/abc_seekbar_thumb_material.xml",
+        "source": "/home/afifur/.android/build-cache/10c8c2810316d669c7e688957506b2bcb27ab7f2/output/res/drawable/abc_seekbar_thumb_material.xml"
+    },
+    {
+        "merged": "/home/afifur/AndroidStudioProjects/GoogleMapsApp/app/build/intermediates/res/merged/debug/drawable/design_bottom_navigation_item_background.xml",
+        "source": "/home/afifur/.android/build-cache/788628bb1a26107565bb7159b1f55943d2d75c8f/output/res/drawable/design_bottom_navigation_item_background.xml"
+    },
+    {
+        "merged": "/home/afifur/AndroidStudioProjects/GoogleMapsApp/app/build/intermediates/res/merged/debug/drawable/notification_bg.xml",
+        "source": "/home/afifur/.android/build-cache/10c8c2810316d669c7e688957506b2bcb27ab7f2/output/res/drawable/notification_bg.xml"
+    },
+    {
+        "merged": "/home/afifur/AndroidStudioProjects/GoogleMapsApp/app/build/intermediates/res/merged/debug/drawable/abc_spinner_textfield_background_material.xml",
+        "source": "/home/afifur/.android/build-cache/10c8c2810316d669c7e688957506b2bcb27ab7f2/output/res/drawable/abc_spinner_textfield_background_material.xml"
+    },
+    {
+        "merged": "/home/afifur/AndroidStudioProjects/GoogleMapsApp/app/build/intermediates/res/merged/debug/drawable/abc_switch_thumb_material.xml",
+        "source": "/home/afifur/.android/build-cache/10c8c2810316d669c7e688957506b2bcb27ab7f2/output/res/drawable/abc_switch_thumb_material.xml"
+    },
+    {
+        "merged": "/home/afifur/AndroidStudioProjects/GoogleMapsApp/app/build/intermediates/res/merged/debug/drawable/abc_btn_borderless_material.xml",
+        "source": "/home/afifur/.android/build-cache/10c8c2810316d669c7e688957506b2bcb27ab7f2/output/res/drawable/abc_btn_borderless_material.xml"
+    },
+    {
+        "merged": "/home/afifur/AndroidStudioProjects/GoogleMapsApp/app/build/intermediates/res/merged/debug/drawable/abc_ratingbar_small_material.xml",
+        "source": "/home/afifur/.android/build-cache/10c8c2810316d669c7e688957506b2bcb27ab7f2/output/res/drawable/abc_ratingbar_small_material.xml"
+    },
+    {
+        "merged": "/home/afifur/AndroidStudioProjects/GoogleMapsApp/app/build/intermediates/res/merged/debug/drawable/notification_tile_bg.xml",
+        "source": "/home/afifur/.android/build-cache/10c8c2810316d669c7e688957506b2bcb27ab7f2/output/res/drawable/notification_tile_bg.xml"
+    },
+    {
+        "merged": "/home/afifur/AndroidStudioProjects/GoogleMapsApp/app/build/intermediates/res/merged/debug/drawable/abc_ic_clear_material.xml",
+        "source": "/home/afifur/.android/build-cache/10c8c2810316d669c7e688957506b2bcb27ab7f2/output/res/drawable/abc_ic_clear_material.xml"
+    },
+    {
+        "merged": "/home/afifur/AndroidStudioProjects/GoogleMapsApp/app/build/intermediates/res/merged/debug/drawable/edukasi.png",
+        "source": "/home/afifur/AndroidStudioProjects/GoogleMapsApp/app/src/main/res/drawable/edukasi.png"
+    },
+    {
+        "merged": "/home/afifur/AndroidStudioProjects/GoogleMapsApp/app/build/intermediates/res/merged/debug/drawable/abc_seekbar_track_material.xml",
+        "source": "/home/afifur/.android/build-cache/10c8c2810316d669c7e688957506b2bcb27ab7f2/output/res/drawable/abc_seekbar_track_material.xml"
+    },
+    {
+        "merged": "/home/afifur/AndroidStudioProjects/GoogleMapsApp/app/build/intermediates/res/merged/debug/drawable/mr_ic_cast_light.xml",
+        "source": "/home/afifur/.android/build-cache/8cf70c287197fb6c38956d218225b67736e8ef52/output/res/drawable/mr_ic_cast_light.xml"
+    },
+    {
+        "merged": "/home/afifur/AndroidStudioProjects/GoogleMapsApp/app/build/intermediates/res/merged/debug/drawable/mr_ic_media_route_mono_dark.xml",
+        "source": "/home/afifur/.android/build-cache/8cf70c287197fb6c38956d218225b67736e8ef52/output/res/drawable/mr_ic_media_route_mono_dark.xml"
+    },
+    {
+        "merged": "/home/afifur/AndroidStudioProjects/GoogleMapsApp/app/build/intermediates/res/merged/debug/drawable/common_plus_signin_btn_icon_dark.xml",
+        "source": "/home/afifur/.android/build-cache/beb7046fb55955e2f0be78de9e82a9a491372c52/output/res/drawable/common_plus_signin_btn_icon_dark.xml"
+    },
+    {
+        "merged": "/home/afifur/AndroidStudioProjects/GoogleMapsApp/app/build/intermediates/res/merged/debug/drawable/abc_cab_background_internal_bg.xml",
+        "source": "/home/afifur/.android/build-cache/10c8c2810316d669c7e688957506b2bcb27ab7f2/output/res/drawable/abc_cab_background_internal_bg.xml"
+    },
+    {
+        "merged": "/home/afifur/AndroidStudioProjects/GoogleMapsApp/app/build/intermediates/res/merged/debug/drawable/abc_ratingbar_full_material.xml",
+        "source": "/home/afifur/.android/build-cache/61471983b141723faf8f842a17844e4d4297be6f/output/res/drawable/abc_ratingbar_full_material.xml"
+    },
+    {
+        "merged": "/home/afifur/AndroidStudioProjects/GoogleMapsApp/app/build/intermediates/res/merged/debug/drawable/abc_dialog_material_background_dark.xml",
+        "source": "/home/afifur/.android/build-cache/61471983b141723faf8f842a17844e4d4297be6f/output/res/drawable/abc_dialog_material_background_dark.xml"
+    },
+    {
+        "merged": "/home/afifur/AndroidStudioProjects/GoogleMapsApp/app/build/intermediates/res/merged/debug/drawable/abc_vector_test.xml",
+        "source": "/home/afifur/.android/build-cache/10c8c2810316d669c7e688957506b2bcb27ab7f2/output/res/drawable/abc_vector_test.xml"
+    },
+    {
+        "merged": "/home/afifur/AndroidStudioProjects/GoogleMapsApp/app/build/intermediates/res/merged/debug/drawable/abc_dialog_material_background_light.xml",
+        "source": "/home/afifur/.android/build-cache/61471983b141723faf8f842a17844e4d4297be6f/output/res/drawable/abc_dialog_material_background_light.xml"
+    },
+    {
+        "merged": "/home/afifur/AndroidStudioProjects/GoogleMapsApp/app/build/intermediates/res/merged/debug/drawable/abc_cab_background_top_material.xml",
+        "source": "/home/afifur/.android/build-cache/10c8c2810316d669c7e688957506b2bcb27ab7f2/output/res/drawable/abc_cab_background_top_material.xml"
+    },
+    {
+        "merged": "/home/afifur/AndroidStudioProjects/GoogleMapsApp/app/build/intermediates/res/merged/debug/drawable/common_google_signin_btn_text_dark.xml",
+        "source": "/home/afifur/.android/build-cache/beb7046fb55955e2f0be78de9e82a9a491372c52/output/res/drawable/common_google_signin_btn_text_dark.xml"
+    },
+    {
+        "merged": "/home/afifur/AndroidStudioProjects/GoogleMapsApp/app/build/intermediates/res/merged/debug/drawable/ekstrim.png",
+        "source": "/home/afifur/AndroidStudioProjects/GoogleMapsApp/app/src/main/res/drawable/ekstrim.png"
+    },
+    {
+        "merged": "/home/afifur/AndroidStudioProjects/GoogleMapsApp/app/build/intermediates/res/merged/debug/drawable/abc_btn_default_mtrl_shape.xml",
+        "source": "/home/afifur/.android/build-cache/10c8c2810316d669c7e688957506b2bcb27ab7f2/output/res/drawable/abc_btn_default_mtrl_shape.xml"
+    },
+    {
+        "merged": "/home/afifur/AndroidStudioProjects/GoogleMapsApp/app/build/intermediates/res/merged/debug/drawable/abc_item_background_holo_dark.xml",
+        "source": "/home/afifur/.android/build-cache/10c8c2810316d669c7e688957506b2bcb27ab7f2/output/res/drawable/abc_item_background_holo_dark.xml"
+    },
+    {
+        "merged": "/home/afifur/AndroidStudioProjects/GoogleMapsApp/app/build/intermediates/res/merged/debug/drawable/abc_text_cursor_material.xml",
+        "source": "/home/afifur/.android/build-cache/10c8c2810316d669c7e688957506b2bcb27ab7f2/output/res/drawable/abc_text_cursor_material.xml"
+    },
+    {
+        "merged": "/home/afifur/AndroidStudioProjects/GoogleMapsApp/app/build/intermediates/res/merged/debug/drawable/property_image_2.jpg",
+        "source": "/home/afifur/AndroidStudioProjects/GoogleMapsApp/app/src/main/res/drawable/property_image_2.jpg"
+    },
+    {
+        "merged": "/home/afifur/AndroidStudioProjects/GoogleMapsApp/app/build/intermediates/res/merged/debug/drawable/mr_ic_play_dark.xml",
+        "source": "/home/afifur/.android/build-cache/8cf70c287197fb6c38956d218225b67736e8ef52/output/res/drawable/mr_ic_play_dark.xml"
+    },
+    {
+        "merged": "/home/afifur/AndroidStudioProjects/GoogleMapsApp/app/build/intermediates/res/merged/debug/drawable/mr_ic_media_route_connecting_mono_dark.xml",
+        "source": "/home/afifur/.android/build-cache/8cf70c287197fb6c38956d218225b67736e8ef52/output/res/drawable/mr_ic_media_route_connecting_mono_dark.xml"
+    },
+    {
+        "merged": "/home/afifur/AndroidStudioProjects/GoogleMapsApp/app/build/intermediates/res/merged/debug/drawable/splash.jpg",
+        "source": "/home/afifur/AndroidStudioProjects/GoogleMapsApp/app/src/main/res/drawable/splash.jpg"
+    },
+    {
+        "merged": "/home/afifur/AndroidStudioProjects/GoogleMapsApp/app/build/intermediates/res/merged/debug/drawable/common_google_signin_btn_icon_dark.xml",
+        "source": "/home/afifur/.android/build-cache/beb7046fb55955e2f0be78de9e82a9a491372c52/output/res/drawable/common_google_signin_btn_icon_dark.xml"
+    },
+    {
+        "merged": "/home/afifur/AndroidStudioProjects/GoogleMapsApp/app/build/intermediates/res/merged/debug/drawable/design_ic_visibility.xml",
+        "source": "/home/afifur/.android/build-cache/788628bb1a26107565bb7159b1f55943d2d75c8f/output/res/drawable/design_ic_visibility.xml"
+    },
+    {
+        "merged": "/home/afifur/AndroidStudioProjects/GoogleMapsApp/app/build/intermediates/res/merged/debug/drawable/property_image_3.jpg",
+        "source": "/home/afifur/AndroidStudioProjects/GoogleMapsApp/app/src/main/res/drawable/property_image_3.jpg"
+    },
+    {
+        "merged": "/home/afifur/AndroidStudioProjects/GoogleMapsApp/app/build/intermediates/res/merged/debug/drawable/abc_textfield_search_material.xml",
+        "source": "/home/afifur/.android/build-cache/10c8c2810316d669c7e688957506b2bcb27ab7f2/output/res/drawable/abc_textfield_search_material.xml"
+    },
+    {
+        "merged": "/home/afifur/AndroidStudioProjects/GoogleMapsApp/app/build/intermediates/res/merged/debug/drawable/abc_btn_check_material.xml",
+        "source": "/home/afifur/.android/build-cache/10c8c2810316d669c7e688957506b2bcb27ab7f2/output/res/drawable/abc_btn_check_material.xml"
+    },
+    {
+        "merged": "/home/afifur/AndroidStudioProjects/GoogleMapsApp/app/build/intermediates/res/merged/debug/drawable/abc_dialog_material_background.xml",
+        "source": "/home/afifur/.android/build-cache/10c8c2810316d669c7e688957506b2bcb27ab7f2/output/res/drawable/abc_dialog_material_background.xml"
+    },
+    {
+        "merged": "/home/afifur/AndroidStudioProjects/GoogleMapsApp/app/build/intermediates/res/merged/debug/drawable/common_plus_signin_btn_text_dark.xml",
+        "source": "/home/afifur/.android/build-cache/beb7046fb55955e2f0be78de9e82a9a491372c52/output/res/drawable/common_plus_signin_btn_text_dark.xml"
+    },
+    {
+        "merged": "/home/afifur/AndroidStudioProjects/GoogleMapsApp/app/build/intermediates/res/merged/debug/drawable/common_plus_signin_btn_icon_light.xml",
+        "source": "/home/afifur/.android/build-cache/beb7046fb55955e2f0be78de9e82a9a491372c52/output/res/drawable/common_plus_signin_btn_icon_light.xml"
+    },
+    {
+        "merged": "/home/afifur/AndroidStudioProjects/GoogleMapsApp/app/build/intermediates/res/merged/debug/drawable/design_fab_background.xml",
+        "source": "/home/afifur/.android/build-cache/788628bb1a26107565bb7159b1f55943d2d75c8f/output/res/drawable/design_fab_background.xml"
+    },
+    {
+        "merged": "/home/afifur/AndroidStudioProjects/GoogleMapsApp/app/build/intermediates/res/merged/debug/drawable/mr_ic_settings_light.xml",
+        "source": "/home/afifur/.android/build-cache/8cf70c287197fb6c38956d218225b67736e8ef52/output/res/drawable/mr_ic_settings_light.xml"
+    },
+    {
+        "merged": "/home/afifur/AndroidStudioProjects/GoogleMapsApp/app/build/intermediates/res/merged/debug/drawable/abc_ic_go_search_api_material.xml",
+        "source": "/home/afifur/.android/build-cache/10c8c2810316d669c7e688957506b2bcb27ab7f2/output/res/drawable/abc_ic_go_search_api_material.xml"
+    },
+    {
+        "merged": "/home/afifur/AndroidStudioProjects/GoogleMapsApp/app/build/intermediates/res/merged/debug/drawable/navigation_empty_icon.xml",
+        "source": "/home/afifur/.android/build-cache/788628bb1a26107565bb7159b1f55943d2d75c8f/output/res/drawable/navigation_empty_icon.xml"
+    },
+    {
+        "merged": "/home/afifur/AndroidStudioProjects/GoogleMapsApp/app/build/intermediates/res/merged/debug/drawable/mr_ic_pause_dark.xml",
+        "source": "/home/afifur/.android/build-cache/8cf70c287197fb6c38956d218225b67736e8ef52/output/res/drawable/mr_ic_pause_dark.xml"
+    },
+    {
+        "merged": "/home/afifur/AndroidStudioProjects/GoogleMapsApp/app/build/intermediates/res/merged/debug/drawable/abc_list_selector_background_transition_holo_dark.xml",
+        "source": "/home/afifur/.android/build-cache/10c8c2810316d669c7e688957506b2bcb27ab7f2/output/res/drawable/abc_list_selector_background_transition_holo_dark.xml"
+    },
+    {
+        "merged": "/home/afifur/AndroidStudioProjects/GoogleMapsApp/app/build/intermediates/res/merged/debug/drawable/notification_bg_low.xml",
+        "source": "/home/afifur/.android/build-cache/10c8c2810316d669c7e688957506b2bcb27ab7f2/output/res/drawable/notification_bg_low.xml"
+    },
+    {
+        "merged": "/home/afifur/AndroidStudioProjects/GoogleMapsApp/app/build/intermediates/res/merged/debug/drawable/mr_ic_pause_light.xml",
+        "source": "/home/afifur/.android/build-cache/8cf70c287197fb6c38956d218225b67736e8ef52/output/res/drawable/mr_ic_pause_light.xml"
+    },
+    {
+        "merged": "/home/afifur/AndroidStudioProjects/GoogleMapsApp/app/build/intermediates/res/merged/debug/drawable/property_image_4.jpg",
+        "source": "/home/afifur/AndroidStudioProjects/GoogleMapsApp/app/src/main/res/drawable/property_image_4.jpg"
+    },
+    {
+        "merged": "/home/afifur/AndroidStudioProjects/GoogleMapsApp/app/build/intermediates/res/merged/debug/drawable/mr_ic_cast_dark.xml",
+        "source": "/home/afifur/.android/build-cache/8cf70c287197fb6c38956d218225b67736e8ef52/output/res/drawable/mr_ic_cast_dark.xml"
+    },
+    {
+        "merged": "/home/afifur/AndroidStudioProjects/GoogleMapsApp/app/build/intermediates/res/merged/debug/drawable/cast_ic_notification_connecting.xml",
+        "source": "/home/afifur/.android/build-cache/76b11cd941263401fb37081402f3ee54cf439125/output/res/drawable/cast_ic_notification_connecting.xml"
+    },
+    {
+        "merged": "/home/afifur/AndroidStudioProjects/GoogleMapsApp/app/build/intermediates/res/merged/debug/drawable/abc_seekbar_tick_mark_material.xml",
+        "source": "/home/afifur/.android/build-cache/10c8c2810316d669c7e688957506b2bcb27ab7f2/output/res/drawable/abc_seekbar_tick_mark_material.xml"
+    },
+    {
+        "merged": "/home/afifur/AndroidStudioProjects/GoogleMapsApp/app/build/intermediates/res/merged/debug/drawable/abc_btn_radio_material.xml",
+        "source": "/home/afifur/.android/build-cache/10c8c2810316d669c7e688957506b2bcb27ab7f2/output/res/drawable/abc_btn_radio_material.xml"
+    },
+    {
+        "merged": "/home/afifur/AndroidStudioProjects/GoogleMapsApp/app/build/intermediates/res/merged/debug/drawable/abc_ic_arrow_drop_right_black_24dp.xml",
+        "source": "/home/afifur/.android/build-cache/10c8c2810316d669c7e688957506b2bcb27ab7f2/output/res/drawable/abc_ic_arrow_drop_right_black_24dp.xml"
+    },
+    {
+        "merged": "/home/afifur/AndroidStudioProjects/GoogleMapsApp/app/build/intermediates/res/merged/debug/drawable/property_image_1.jpg",
+        "source": "/home/afifur/AndroidStudioProjects/GoogleMapsApp/app/src/main/res/drawable/property_image_1.jpg"
+    },
+    {
+        "merged": "/home/afifur/AndroidStudioProjects/GoogleMapsApp/app/build/intermediates/res/merged/debug/drawable/abc_ratingbar_indicator_material.xml",
+        "source": "/home/afifur/.android/build-cache/10c8c2810316d669c7e688957506b2bcb27ab7f2/output/res/drawable/abc_ratingbar_indicator_material.xml"
+    },
+    {
+        "merged": "/home/afifur/AndroidStudioProjects/GoogleMapsApp/app/build/intermediates/res/merged/debug/drawable/nav_item_color_state.xml",
+        "source": "/home/afifur/AndroidStudioProjects/GoogleMapsApp/app/src/main/res/drawable/nav_item_color_state.xml"
+    },
+    {
+        "merged": "/home/afifur/AndroidStudioProjects/GoogleMapsApp/app/build/intermediates/res/merged/debug/drawable/abc_ratingbar_material.xml",
+        "source": "/home/afifur/.android/build-cache/10c8c2810316d669c7e688957506b2bcb27ab7f2/output/res/drawable/abc_ratingbar_material.xml"
+    },
+    {
+        "merged": "/home/afifur/AndroidStudioProjects/GoogleMapsApp/app/build/intermediates/res/merged/debug/drawable/abc_ic_menu_overflow_material.xml",
+        "source": "/home/afifur/.android/build-cache/10c8c2810316d669c7e688957506b2bcb27ab7f2/output/res/drawable/abc_ic_menu_overflow_material.xml"
+    }
+]

@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">PlayOn</string>
+    <string name="title_activity_maps">Map</string>
+    <string name="text_favorites">Map</string>
+    <string name="text_schedules">Planing</string>
+    <string name="text_music">Ticket Booking</string>
+
+    <string name="title_activity_detail">DetailActivity</string>
+
+</resources>

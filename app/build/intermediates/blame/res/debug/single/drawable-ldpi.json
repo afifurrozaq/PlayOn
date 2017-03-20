@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "/home/afifur/AndroidStudioProjects/GoogleMapsApp/app/build/intermediates/res/merged/debug/drawable-ldpi/ic_favorite_white_24dp.png",
+        "source": "/home/afifur/AndroidStudioProjects/GoogleMapsApp/app/build/generated/res/pngs/debug/drawable-ldpi/ic_favorite_white_24dp.png"
+    },
+    {
+        "merged": "/home/afifur/AndroidStudioProjects/GoogleMapsApp/app/build/intermediates/res/merged/debug/drawable-ldpi/ic_access_time_white_24dp.png",
+        "source": "/home/afifur/AndroidStudioProjects/GoogleMapsApp/app/build/generated/res/pngs/debug/drawable-ldpi/ic_access_time_white_24dp.png"
+    },
+    {
+        "merged": "/home/afifur/AndroidStudioProjects/GoogleMapsApp/app/build/intermediates/res/merged/debug/drawable-ldpi/ic_audiotrack_white_24dp.png",
+        "source": "/home/afifur/AndroidStudioProjects/GoogleMapsApp/app/build/generated/res/pngs/debug/drawable-ldpi/ic_audiotrack_white_24dp.png"
+    }
+]

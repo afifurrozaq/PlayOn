@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "/home/afifur/AndroidStudioProjects/GoogleMapsApp/app/build/intermediates/res/merged/debug/anim-v21/design_appbar_state_list_animator.xml",
+        "source": "/home/afifur/.android/build-cache/788628bb1a26107565bb7159b1f55943d2d75c8f/output/res/anim-v21/design_appbar_state_list_animator.xml"
+    },
+    {
+        "merged": "/home/afifur/AndroidStudioProjects/GoogleMapsApp/app/build/intermediates/res/merged/debug/anim-v21/design_bottom_sheet_slide_out.xml",
+        "source": "/home/afifur/.android/build-cache/788628bb1a26107565bb7159b1f55943d2d75c8f/output/res/anim-v21/design_bottom_sheet_slide_out.xml"
+    },
+    {
+        "merged": "/home/afifur/AndroidStudioProjects/GoogleMapsApp/app/build/intermediates/res/merged/debug/anim-v21/design_bottom_sheet_slide_in.xml",
+        "source": "/home/afifur/.android/build-cache/788628bb1a26107565bb7159b1f55943d2d75c8f/output/res/anim-v21/design_bottom_sheet_slide_in.xml"
+    }
+]

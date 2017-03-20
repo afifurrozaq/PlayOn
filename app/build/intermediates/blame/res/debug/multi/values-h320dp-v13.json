@@ -1,0 +1,26 @@
+[
+    {
+        "outputFile": "/home/afifur/AndroidStudioProjects/GoogleMapsApp/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-h320dp-v13/values-h320dp-v13.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 57,
+                    "endOffset": 108
+                },
+                "from": {
+                    "file": "/home/afifur/.android/build-cache/61471983b141723faf8f842a17844e4d4297be6f/output/res/values-h320dp/values-h320dp.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 231,
+                        "endColumn": 57,
+                        "endOffset": 284
+                    }
+                }
+            }
+        ]
+    }
+]

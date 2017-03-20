@@ -1,0 +1,26 @@
+[
+    {
+        "outputFile": "/home/afifur/AndroidStudioProjects/GoogleMapsApp/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-ldrtl-v23/values-ldrtl-v23.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 112,
+                    "endOffset": 163
+                },
+                "from": {
+                    "file": "/home/afifur/.android/build-cache/61471983b141723faf8f842a17844e4d4297be6f/output/res/values-ldrtl-v23/values-ldrtl-v23.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 240,
+                        "endColumn": 112,
+                        "endOffset": 348
+                    }
+                }
+            }
+        ]
+    }
+]
